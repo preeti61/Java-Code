@@ -1,0 +1,49 @@
+<book>
+<person>
+  <firstName>Suvishi</firstName>
+  <lastName>Rani</lastName>
+  <age>20</age>
+ <branch>Information Technology</branch>
+<college>College of Technology</college>
+</person>
+
+<person>
+  <firstName>Preeti</firstName>
+  <lastName>Rautela</lastName>
+  <age>20</age>
+ <branch>Information Technology</branch>
+<college>College of Technology</college>
+</person>
+
+<person>
+  <firstName>Ankit</firstName>
+  <lastName>Pant</lastName>
+  <age>20</age>
+   <branch>Information Technology</branch>
+<college>College of Technology</college>
+</person>
+
+<person>
+  <firstName>Mridul</firstName>
+  <lastName>Pant</lastName>
+  <age>20</age>
+   <branch>Information Technology</branch>
+<college>College of Technology</college>
+</person>
+
+<person>
+  <firstName>Manav</firstName>
+  <lastName>Raina</lastName>
+  <age>20</age>
+   <branch>Information Technology</branch>
+<college>College of Technology</college>
+</person>
+
+<person>
+  <firstName>Sudhanshu</firstName>
+  <lastName>Ranjan</lastName>
+  <age>20</age>
+   <branch>Information Technology</branch>
+<college>College of Technology</college>
+</person>
+</book>
